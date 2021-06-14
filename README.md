@@ -6,7 +6,7 @@
 
 I am from Venezuela. I study Computer Science at Central Venezuela of University, 3rd Year. I would like to be a Senior Full Stack Developer, I would like to connect new people, do a lot of softwares, get a job international, and participate in events.
 
-🌱 I’m currently learning: Microservices, ReactJS, React Native, Problem Solving (advanced).
+🌱 I’m currently learning: Microservices, ReactJS, React Native, Problem Solving (advanced) and Data Structures.
 
 🔭 I’m currently working on Itconectas, that develop so many programs for venezuela business.
 
