@@ -12,7 +12,7 @@ My name is Jonathan Torres, I am from Venezuela. I study Computer Science at Cen
 
 ### System Operatives
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <!--
 **JohnnyAIO-TFD/JohnnyAIO-TFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
