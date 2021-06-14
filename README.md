@@ -29,11 +29,6 @@ I am from Venezuela. I study Computer Science at Central University of Venezuela
 📱 Blog (Django)
 📄 Medical Appointments (MEAN)
 
-# Platform that I practiced
-
-Hackerrank
-Leetcode
-
 # Certification
 
 📕 CS50 Introduction to computer Science (Harvard)
