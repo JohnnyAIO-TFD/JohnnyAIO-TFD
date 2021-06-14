@@ -1,10 +1,18 @@
 ### Hello, I am Jonathan Torres 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-jonathan.torres.8096-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jonathan.torres.8096@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Jonathan-Torres%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-torres-a5796b117/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@LinuxAIO-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=LinuxAIO "Follow on Twitter")
+
 I am from Venezuela. I study Computer Science at Central Venezuela of University, 3rd Year. I would like to be a Senior Full Stack Developer, I would like to connect new people, do a lot of softwares, get a job international, and participate in events.
 
 🌱 I’m currently learning: Microservices, ReactJS, React Native, Problem Solving (advanced).
 
 🔭 I’m currently working on Itconectas, that develop so many programs for venezuela business.
+
+# My projects
+
+
 
 # Languages Frontend
 
