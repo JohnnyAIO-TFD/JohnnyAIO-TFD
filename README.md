@@ -10,9 +10,36 @@ I am from Venezuela. I study Computer Science at Central Venezuela of University
 
 🔭 I’m currently working on Itconectas, that develop so many programs for venezuela business.
 
-# My projects
+# Projects that I have worked
 
+🛒 Ecommerce for PharmacyAdonay (Wordpress)
+🛒 Ecommerce for Pillow sales (Wordpress)
+🌐 Web page Information for DiplomadosOnline (Wordpress)
+🌐 Web page Information for Laboratory Meyer Siegfried (Wordpress)
+🌐 Migration a new web page for Solfin - Casa de Bolsa (Wordpress)
+🛒 Ecommerce platform for Pharmaceutic business (MEAN)
+📄 Payroll system for a University (Laravel)
 
+# Personal Projects
+
+📄 Script automatization for business (Python)
+📄 Convert information PDF to TXT (Python)
+📱 Chat realtime (Angular + Firebase)
+📱 Social Network (MEAN)
+📱 Blog (Django)
+📄 Medical Appointments (MEAN)
+
+# Platform that I practiced
+
+Hackerrank
+Leetcode
+
+# Certification
+
+📕 CS50 Introduction to computer Science (Harvard)
+📕 Code in Place (Stanford)
+🌐 Responsive Web Design (FreeCodeCamp)
+🌐 JavaScript and Data Structures (FreeCodeCamp)
 
 # Languages Frontend
 
