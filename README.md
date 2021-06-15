@@ -12,12 +12,12 @@ I am from Venezuela. I have 24 years old. I study Computer Science at Central Un
 
 # Projects that I have worked
 
-* 🛒 Ecommerce for PharmacyAdonay (Wordpress).
-* 🛒 Ecommerce for Pillow sales (Wordpress).
-* 🌐 Web page Information for DiplomadosOnline (Wordpress).
-* 🌐 Web page Information for Laboratory Meyer Siegfried (Wordpress).
-* 🌐 Migration a new web page for Solfin - Casa de Bolsa (Wordpress).
-* 🛒 Ecommerce platform for Pharmaceutic business (MEAN).
+* 🛒 [Ecommerce for PharmacyAdonay](https://farmaclickadonay.com/) (Wordpress).
+* 🛒 [Ecommerce for Pillow sales](https://casaplus.com/) (Wordpress).
+* 🛒 [Ecommerce platform for Pharmaceutic Business](https://sandbox.itconectas.io/) (MEAN).
+* 🌐 [Web page Information for DiplomadosOnline](https://www.diplomadosonline.com/) (Wordpress).
+* 🌐 [Web page Information for Laboratory Meyer Siegfried](https://www.meyer.com.ve/) (Wordpress).
+* 🌐 [Migration a new web page for Solfin - Casa de Bolsa](https://www.solfin.com.ve/) (Wordpress).
 * 📄 Payroll system for a University (Laravel).
 
 # Personal Projects
@@ -28,9 +28,10 @@ I am from Venezuela. I have 24 years old. I study Computer Science at Central Un
 * 📱 Social Network (MEAN).
 * 📱 Blog (Django).
 * 📄 Medical Appointments (MEAN).
-* 📄 Weather App (AngularJS and JavaScript).
-* 📄 Guess the number (JavaScript).
+* 🌞 Weather App (AngularJS and JavaScript).
+* 0️⃣ Guess the number (JavaScript).
 * 📄 Text Editor (JavaScript).
+* 🎵 BeatBox (JavaScript).
 
 # Certification
 
