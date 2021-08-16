@@ -19,6 +19,7 @@ I am from Venezuela. I have 24 years old. I study Computer Science at Central Un
 * 🌐 [Web page Information for Laboratory Meyer Siegfried](https://www.meyer.com.ve/) (Wordpress).
 * 🌐 [Migration a new web page for Solfin - Casa de Bolsa](https://www.solfin.com.ve/) (Wordpress).
 * 📄 Payroll system for a University (Laravel).
+* 🌐 [Desarrollo del Bot de Telegram](https://www.instagram.com/hoymeprovocaa/) (Telegram).
 
 # Personal Projects
 
