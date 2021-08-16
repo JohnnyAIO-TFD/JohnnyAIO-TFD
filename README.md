@@ -34,6 +34,8 @@ I am from Venezuela. I have 24 years old. I study Computer Science at Central Un
 * 📄 Text Editor (JavaScript).
 * 🎵 BeatBox (JavaScript).
 * 📱 System of Inscription (Django)
+* [Pedidos Bot (Nodejs)](http://t.me/ShonnyPedidosBot)
+* [Weather Bot (NodeJs)](http://t.me/ShonnyWeatherBot)
 
 # Certification
 
