@@ -27,12 +27,13 @@ I am from Venezuela. I have 24 years old. I study Computer Science at Central Un
 * 📄 Convert information PDF to TXT (Python).
 * 📱 Chat realtime (Angular + Firebase).
 * 📱 Social Network (MEAN).
-* 📱 Blog (Django).
+* 📱 Blog (Django, NodeJs).
 * 📄 Medical Appointments (MEAN).
 * 🌞 Weather App (AngularJS and JavaScript).
 * 0️⃣ Guess the number (JavaScript).
 * 📄 Text Editor (JavaScript).
 * 🎵 BeatBox (JavaScript).
+* 📱 System of Inscription (Django)
 
 # Certification
 
