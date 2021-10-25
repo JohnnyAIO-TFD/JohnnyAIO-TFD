@@ -20,24 +20,39 @@ I am from Venezuela. I am 25 years old. I study Computer Science at Central Univ
 * 🌐 [Web page Information for DiplomadosOnline](https://www.diplomadosonline.com/) (Wordpress).
 * 🌐 [Web page Information for Laboratory Meyer Siegfried](https://www.meyer.com.ve/) (Wordpress).
 * 🌐 [Migration a new web page for Solfin - Casa de Bolsa](https://www.solfin.com.ve/) (Wordpress).
+* 🌐 [System of Affiliation with Coupon Free](https://afiliacion.tennisshop.store/login) (Wordpress, Angular).
 * 📄 Payroll system for a University (Laravel).
 * 🌐 [Desarrollo del Bot de Telegram](https://www.instagram.com/hoymeprovocaa/) (Telegram).
 
 # Personal Projects
 
-* 📄 Script automatization for business (Python).
-* 📄 Convert information PDF to TXT (Python).
-* 📱 Chat realtime (Angular + Firebase).
-* 📱 Social Network (MEAN).
-* 📱 Blog (Django, NodeJs).
-* 📄 Medical Appointments (MEAN).
-* 🌞 Weather App (AngularJS and JavaScript).
-* 0️⃣ Guess the number (JavaScript).
-* 📄 Text Editor (JavaScript).
-* 🎵 BeatBox (JavaScript).
+* 📄 Script automatization for business (Python)
+* 📄 Convert information PDF to TXT (Python)
+* 📱 Chat realtime (Angular + Firebase)
+* 📱 Social Network (MEAN)
+* 📱 Blog (Django, NodeJs)
+* 📄 Medical Appointments (MEAN)
 * 📱 System of Inscription (Django)
+* 🌞 [Weather App (AngularJS and JavaScript](https://practice-javascript-shonny.netlify.app/weather-app/)
+* 0️⃣ [Guess the number (JavaScript)](https://practice-javascript-shonny.netlify.app/adivina%20el%20numero/)
+* 📄 [Text Editor (JavaScript)](https://practice-javascript-shonny.netlify.app/texteditorexercise/)
+* 🎵 [BeatBox (JavaScript)](https://practice-javascript-shonny.netlify.app/beatboxjs/)
+* 📄 [Mini Projects (JavaScript)](https://practice-javascript-shonny.netlify.app/mini-project-5/)
+* 📄 [Todo note app](https://shonny-todo-notes.herokuapp.com/)
+* 📕 [Chocolate Landing Page](https://front-end-deploys-shonny.netlify.app/chocolate_provocacion/)
+* 📕 [Quizz App](https://front-end-deploys-shonny.netlify.app/quiz_app/)
+* 📕 [SASS Products](https://front-end-deploys-shonny.netlify.app/sass_products/)
+* 📕 [Bolivares to Dollars Converter](https://bsd-to-usd-converter.netlify.app/)
 * [Pedidos Bot (Nodejs)](http://t.me/ShonnyPedidosBot)
 * [Weather Bot (NodeJs)](http://t.me/ShonnyWeatherBot)
+
+# Contributting
+
+* 📕 [Web Development Resources](https://github.com/markodenic/web-development-resources)
+* 📕 [Tech Blogs Devs](https://tech-blogs.dev/)
+* 📕 [Tech Interview](https://techinterviewhandbook.org/)
+* 📕 [Free Programming Books](https://github.com/ShonnyAIO/free-programming-books)
+
 
 # Certification
 
