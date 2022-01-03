@@ -4,13 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Torres-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-torres-a5796b117/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@Linux_AIO-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Linux_AIO "Follow on Twitter")
 
-I am from Venezuela. I am 25 years old. I study Computer Science at Central University of Venezuela, 3rd Year. I would like to be a Senior Full Stack Developer, I would like to connect new people, do a lot of softwares, get a job international, and participate in events.
+I am from Venezuela. I am 25 years old. I study Computer Science at Central University of Venezuela, 3rd Year undergraduate. I aspire to be a Senior Full Stack Developer, I would like to connect new people, do a lot of software, get an international job, and participate in events.
 
-🌱 I’m currently learning: Microservices, ReactJS, React Native, Problem Solving (advanced) and Data Structures.
+🌱 I’m currently learning: Unit Testing, Microservices, DevOps, Docker, CI/CD with CircleCI, NestJS.
 
-🔭 I’m currently working on Itconectas, that develop so many programs for venezuela business.
-
-🔭 I’m currently taking a lot of interviews, to changed my job ang growing my professional.
+🔭 I’m currently working on Itconectas and Komerzio, development new bussiness applications.
 
 # Projects that I have worked
 
