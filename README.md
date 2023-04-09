@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-jonathan.torres.8096-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jonathan.torres.8096@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Torres-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-torres-a5796b117/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@Linux_AIO-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Linux_AIO "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@Linux_AIO-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ShonnyTorres "Follow on Twitter")
 
 I am from Venezuela. I am 25 years old. I study Computer Science at Central University of Venezuela, 3rd Year undergraduate. I aspire to be a Senior Full Stack Developer, I would like to connect new people, do a lot of software, get an international job, and participate in events.
 
